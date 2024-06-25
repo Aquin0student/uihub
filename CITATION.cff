@@ -1,0 +1,31 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: UiHUB
+authors:
+  - family-names: Bicalho Silva
+    given-names: Amanda 
+  - family-names: Ribeiro Vilaça
+    given-names: Eduarda
+  - family-names: Prudêncio da Costa
+    given-names: Felipe
+  - family-names: Rodrigues
+    given-names: Guilherme 
+  - family-names: Aquino Campelo
+    given-names: João Augusto
+  - family-names: Germano de Melo Santos
+    given-names: Pedro Henrique
+
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Silva Tavares
+    given-names: Cleiton
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira de Araújo
+    given-names: Ivan Luiz
+    keywords:
+    - 
+repository-code: 
+license: CC-BY-4.0
+version: 0.0.1
+date-released:
